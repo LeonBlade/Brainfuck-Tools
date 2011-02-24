@@ -1,4 +1,4 @@
-Brainfuck Tools - Aew tools for Brainfuck
+Brainfuck Tools - A few tools for Brainfuck
 ===================================================
 
 To install, just use make:
