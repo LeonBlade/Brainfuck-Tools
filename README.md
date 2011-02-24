@@ -1,5 +1,5 @@
 Brainfuck Tools - A few tools for Brainfuck
-===================================================
+===========================================
 
 To install, just use make:
 --------------------------
@@ -25,5 +25,3 @@ If you really like this you can install it, defaults to /usr/bin change that if 
 -----------------------------------------------------------------------------------------
 	
 	$ sudo make install
-
-Thanks for checking it out
